@@ -70,7 +70,7 @@ Getting Started
 
 Clone the repository:
 
-git clone https://github.com/slimanibrhaim2/go-load-balancer.git
+git clone https://github.com/yourusername/go-load-balancer.git
 cd go-load-balancer
 
 Start the backend servers:

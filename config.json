@@ -1,0 +1,18 @@
+{
+    "port": 8080,
+    "servers": [
+      {
+        "url": "http://localhost:8001",
+        "healthy": false
+      },
+      {
+        "url": "http://localhost:8002",
+        "healthy": false
+      },
+      {
+        "url": "http://localhost:8003",
+        "healthy": false
+      }
+    ],
+    "healthCheckInterval": 10
+  }
